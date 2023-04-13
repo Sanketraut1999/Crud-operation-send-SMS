@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "app.twillio.toPhoneNo",
+    "type": "java.lang.String",
+    "description": "A description for 'app.twillio.toPhoneNo'"
+  },
+  {
+    "name": "app.twillio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'app.twillio.authToken'"
+  },
+  {
+    "name": "app.twillio.accountSID",
+    "type": "java.lang.String",
+    "description": "A description for 'app.twillio.accountSID'"
+  },
+  {
+    "name": "app.twillio.fromPhoneNo",
+    "type": "java.lang.String",
+    "description": "A description for 'app.twillio.fromPhoneNo'"
+  }
+]}
